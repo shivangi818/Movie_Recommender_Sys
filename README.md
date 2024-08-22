@@ -18,20 +18,20 @@ I've been working on a Movie Recommender System using Streamlit, and I'm thrille
 3. **Cosine Similarity**: Computes similarity scores between movies to generate recommendations.
 4. **Streamlit App**: Provides an interactive interface for users to select movies and view recommendations.
 
-##Screenshots:
+## Screenshots:
 
 -1.![First Step](https://github.com/user-attachments/assets/5fdcf9bf-e261-47ca-8a9a-30b17207463a)
 -2.![Second Step](https://github.com/user-attachments/assets/1ff74b15-f15f-4f85-b1fc-c95328081f43)
 -3.![Result](https://github.com/user-attachments/assets/973e7a94-55d9-42b4-8c10-8ccc72640d89)
 
 
-##Future Improvements
+## Future Improvements
 
 -Add user authentication and personalized profiles.
 -Enhance the recommendation engine with additional features like user ratings.
 -Integrate more movie-related APIs for richer data.
 
-##Contributing
+## Contributing
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
 
